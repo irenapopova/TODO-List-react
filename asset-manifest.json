@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/irenapopova/TODO-List-react/static/css/main.c76c5e98.chunk.css",
-    "main.js": "/irenapopova/TODO-List-react/static/js/main.5c8f7b3b.chunk.js",
-    "main.js.map": "/irenapopova/TODO-List-react/static/js/main.5c8f7b3b.chunk.js.map",
-    "runtime~main.js": "/irenapopova/TODO-List-react/static/js/runtime~main.7033b4b8.js",
-    "runtime~main.js.map": "/irenapopova/TODO-List-react/static/js/runtime~main.7033b4b8.js.map",
-    "static/js/2.66497c1e.chunk.js": "/irenapopova/TODO-List-react/static/js/2.66497c1e.chunk.js",
-    "static/js/2.66497c1e.chunk.js.map": "/irenapopova/TODO-List-react/static/js/2.66497c1e.chunk.js.map",
-    "index.html": "/irenapopova/TODO-List-react/index.html",
-    "precache-manifest.0db2294cabe560a4b5b2f126a307325e.js": "/irenapopova/TODO-List-react/precache-manifest.0db2294cabe560a4b5b2f126a307325e.js",
-    "service-worker.js": "/irenapopova/TODO-List-react/service-worker.js",
-    "static/css/main.c76c5e98.chunk.css.map": "/irenapopova/TODO-List-react/static/css/main.c76c5e98.chunk.css.map",
-    "static/media/index.css": "/irenapopova/TODO-List-react/static/media/bg.4f96b4e8.svg"
-  }
+    "main.css": "/TODO-List-react/static/css/main.be1e53db.chunk.css",
+    "main.js": "/TODO-List-react/static/js/main.f35a7899.chunk.js",
+    "main.js.map": "/TODO-List-react/static/js/main.f35a7899.chunk.js.map",
+    "runtime-main.js": "/TODO-List-react/static/js/runtime-main.1961d727.js",
+    "runtime-main.js.map": "/TODO-List-react/static/js/runtime-main.1961d727.js.map",
+    "static/js/2.5e649248.chunk.js": "/TODO-List-react/static/js/2.5e649248.chunk.js",
+    "static/js/2.5e649248.chunk.js.map": "/TODO-List-react/static/js/2.5e649248.chunk.js.map",
+    "index.html": "/TODO-List-react/index.html",
+    "precache-manifest.ac17b247581f1e01bb3e3caf7c98c159.js": "/TODO-List-react/precache-manifest.ac17b247581f1e01bb3e3caf7c98c159.js",
+    "service-worker.js": "/TODO-List-react/service-worker.js",
+    "static/css/main.be1e53db.chunk.css.map": "/TODO-List-react/static/css/main.be1e53db.chunk.css.map",
+    "static/js/2.5e649248.chunk.js.LICENSE.txt": "/TODO-List-react/static/js/2.5e649248.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TODO-List-react/static/media/bg.4f96b4e8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1961d727.js",
+    "static/js/2.5e649248.chunk.js",
+    "static/css/main.be1e53db.chunk.css",
+    "static/js/main.f35a7899.chunk.js"
+  ]
 }
